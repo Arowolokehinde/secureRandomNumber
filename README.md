@@ -113,8 +113,6 @@ MIT License
 
 ## Author
 
-Your Name
+Arowolo Kehinde
 
 ---
-
-*This recipe is part of the Hiro Cookbook, a collection of reusable patterns for building on Stacks.*
